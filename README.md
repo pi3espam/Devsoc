@@ -1,5 +1,9 @@
 # Devsoc
-Solving Backend problems from the technical assessment.
+Okay so basically, I thought the form was due friday night but I didn't have time to answer the questions then, so I made this repo so that I could add the stuff to it later. But now I see that you guys asked for a link to my fork. So yeah I big dumb. Sorry 😭
+LINK TO ACTUAL REPO
+https://github.com/Pi3e/2024-recruitment-technical-assessment/tree/main
 
 
-if you reading this, then can you come back and check my application, I can definitely do them just no time right now sorry 😭.
+
+Thank you for going through this trouble (hope I get in ~)
+
